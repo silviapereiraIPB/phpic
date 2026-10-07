@@ -1,5 +1,4 @@
 <?php
-echo "Hello World SILVIA";
-echo "Olá!! a todos!";
-
+echo "Hello World";
+echo "Sejam bem vindos!!"
 ?>
