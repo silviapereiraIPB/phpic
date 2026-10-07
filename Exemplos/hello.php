@@ -1,4 +1,4 @@
 <?php
-echo "Hello World";
-
+echo "Modi ki bu sta?";
+echo "BUENOS DIASSSS";
 ?>
